@@ -1,3 +1,4 @@
+# the following script willhelp to install the JAVA software & Jenkins on top on Ubuntu server
 sudo apt update
 sudo apt install fontconfig openjdk-21-jre
 java -version
